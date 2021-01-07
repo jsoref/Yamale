@@ -1,0 +1,7 @@
+^\.github/
+^\.travis\.yml$
+^tox\.ini$
+ignore$
+^LICENSE$
+fixtures/mac
+\.png$
